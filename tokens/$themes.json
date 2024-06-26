@@ -22,6 +22,18 @@
     "group": "brand"
   },
   {
+    "id": "9a108a37d9bc0375196d982be80b681e2e981358",
+    "name": "pencs",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "button": "source",
+      "semantic": "source",
+      "pencs": "enabled"
+    },
+    "group": "brand"
+  },
+  {
     "id": "ff04d8b99db8cddbaaceac800e10e106118ccdcf",
     "name": "gray",
     "selectedTokenSets": {
@@ -53,17 +65,5 @@
       "white": "enabled"
     },
     "group": "color"
-  },
-  {
-    "id": "9a108a37d9bc0375196d982be80b681e2e981358",
-    "name": "pencs",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core": "source",
-      "button": "source",
-      "semantic": "source",
-      "pencs": "enabled"
-    },
-    "group": "brand"
   }
 ]
