@@ -10,5 +10,11 @@
       "value": "{borders.md}",
       "type": "border"
     }
+  },
+  "spacings": {
+    "default": {
+      "value": "{spacings.lg}",
+      "type": "spacing"
+    }
   }
 }

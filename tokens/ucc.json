@@ -4,5 +4,18 @@
       "value": "{borderRadius.none}",
       "type": "borderRadius"
     }
+  },
+  "borders": {
+    "default": {
+      "value": "{borders.md}",
+      "type": "border"
+    }
+  },
+  "spacings": {
+    "default": {
+      "value": "{spacings.sm}",
+      "type": "spacing"
+    }
   }
+
 }

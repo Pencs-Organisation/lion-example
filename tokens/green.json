@@ -1,0 +1,20 @@
+{
+  "colors": {
+    "bg": {
+      "default": {
+        "color": {
+          "value": "{colors.green.600}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "default": {
+        "color": {
+          "value": "{colors.white}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

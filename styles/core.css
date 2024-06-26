@@ -45,4 +45,7 @@
   --colors-green-700: #22613f;
   --colors-green-800: #16402a;
   --colors-green-900: #0b2015;
+  --spacings-sm: 4px;
+  --spacings-md: 8px;
+  --spacings-lg: 16px;
 }

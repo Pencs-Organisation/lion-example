@@ -12,7 +12,7 @@ class TokButton extends adjustAdoptedStylesheetsMixin(LionButtonSubmit) {
           background: var(--button-bg-color);
           border-radius: var(--button-border-radius);
           border: var(--button-border);
-          padding: 50px;
+          padding: var(--button-spacing);
         }
 
         :host(:hover),

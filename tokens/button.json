@@ -19,6 +19,11 @@
     "border": {
       "value": "{borders.default}",
       "type": "border"
+    },
+    "spacing": {
+      "value": "{spacings.default}",
+      "type": "spacing"
     }
+
   }
 }

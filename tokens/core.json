@@ -187,7 +187,15 @@
   },
   "spacings": {
     "sm": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "md": {
       "value": "8",
+      "type": "spacing"
+    },
+    "lg": {
+      "value": "16",
       "type": "spacing"
     }
   }
