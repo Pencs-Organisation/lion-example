@@ -184,5 +184,13 @@
         "type": "color"
       }
     }
+  },
+  "spacing": {
+    "spacing": {
+      "sm": {
+        "value": "4px",
+        "type": "dimension"
+      }
+    }
   }
 }
