@@ -185,7 +185,7 @@
       }
     }
   },
-  "spacing": {
+  "dimensions": {
     "spacing": {
       "sm": {
         "value": "4px",
