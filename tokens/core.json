@@ -185,12 +185,10 @@
       }
     }
   },
-  "dimensions": {
-    "spacing": {
-      "sm": {
-        "value": "4px",
-        "type": "dimension"
-      }
+  "spacings": {
+    "sm": {
+      "value": "8",
+      "type": "spacing"
     }
   }
 }
