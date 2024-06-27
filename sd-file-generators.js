@@ -40,12 +40,11 @@ export const generateComponentFiles = (components, theme) => {
     });
 
     // not theme-specific outputs
-    // I CAN'T GET THIS TO WORK
-    // filesArr.push({
-    //   ...commonFileOptions,
-    //   filter: componentFilter(comp, false),
-    //   destination: `${comp}/${comp}.css`,
-    // });
+    filesArr.push({
+      ...commonFileOptions,
+      // filter: componentFilter(comp, false),
+      destination: `${comp}/${comp}.css`,
+    });
   }
   return filesArr;
 };

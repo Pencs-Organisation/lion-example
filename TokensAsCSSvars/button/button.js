@@ -29,14 +29,14 @@ class TokButton extends adjustAdoptedStylesheetsMixin(LionButtonSubmit) {
     this.component = "button";
 
     // This can probably be its own mixin as well...
-    import(`./button.css`, {
-      assert: { type: "css" },
-    }).then(({ default: sheet }) => {
-      this.shadowRoot.adoptedStyleSheets = [
-        ...this.shadowRoot.adoptedStyleSheets,
-        sheet,
-      ];
-    });
+    // import(`./button.css`, {
+    //   assert: { type: "css" },
+    // }).then(({ default: sheet }) => {
+    //   this.shadowRoot.adoptedStyleSheets = [
+    //     ...this.shadowRoot.adoptedStyleSheets,
+    //     sheet,
+    //   ];
+    // });
   }
 }
 
