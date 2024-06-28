@@ -24,7 +24,6 @@
   {
     "id": "9a108a37d9bc0375196d982be80b681e2e981358",
     "name": "pencs",
-    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
       "button": "source",
@@ -42,12 +41,22 @@
       "semantic": "source",
       "gray": "enabled"
     },
-    "$figmaStyleReferences": {},
+    "group": "color"
+  },
+  {
+    "id": "0d8d6e27d3b8f0f7f6c43b08fded782f88d18663",
+    "name": "darkslategray",
+    "selectedTokenSets": {
+      "core": "source",
+      "button": "source",
+      "semantic": "source",
+      "darkslategray": "enabled"
+    },
     "group": "color"
   },
   {
     "id": "e6dd916d4cb30ccace7631035ac91c98ea5960eb",
-    "name": "Blue",
+    "name": "blue",
     "selectedTokenSets": {
       "core": "source",
       "button": "source",
@@ -70,26 +79,11 @@
   {
     "id": "40cffeb9a04613d8aa37accdf463139b91a75f41",
     "name": "green",
-    "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
       "button": "source",
-      "pencs": "source",
       "semantic": "source",
       "green": "enabled"
-    },
-    "group": "color"
-  },
-  {
-    "id": "0d8d6e27d3b8f0f7f6c43b08fded782f88d18663",
-    "name": "darkslategray",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "core": "source",
-      "button": "source",
-      "pencs": "source",
-      "semantic": "source",
-      "darkslategray": "enabled"
     },
     "group": "color"
   }

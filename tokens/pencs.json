@@ -13,7 +13,7 @@
   },
   "spacings": {
     "default": {
-      "value": "{spacings.md}",
+      "value": "{spacings.lg}",
       "type": "spacing"
     }
   }

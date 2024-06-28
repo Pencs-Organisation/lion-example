@@ -42,7 +42,7 @@ export const generateComponentFiles = (components, theme) => {
     // not theme-specific outputs
     filesArr.push({
       ...commonFileOptions,
-      // filter: componentFilter(comp, false),
+      filter: componentFilter(comp, true),
       destination: `${comp}/${comp}.css`,
     });
   }

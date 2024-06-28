@@ -4,8 +4,8 @@
 
 :host {
   --button-bg-color: #1a485e;
-  --button-border-radius: 4px;
+  --button-border-radius: 0;
   --button-text-color: #ffffff;
   --button-border: 1px solid #b2b4b6;
-  --button-spacing: 8px;
+  --button-spacing: 16px;
 }

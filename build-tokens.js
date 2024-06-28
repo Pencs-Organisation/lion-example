@@ -33,6 +33,9 @@ async function run() {
   });
 
   const configs = Object.entries(themes).map(([theme, sets]) => ({
+    log: {
+      verbosity: "verbose"
+    },
     source: sets.map((tokenset) => `tokens/${tokenset}.json`),
     platforms: {
       css: {
